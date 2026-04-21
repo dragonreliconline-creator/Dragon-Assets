@@ -1,4 +1,4 @@
-Version=v1.0
+Version=v2.0
 BaseUrl=https://github.com/dragonreliconline-creator/Dragon-Assets/releases/download/v1.0/
 Discord=https://discord.gg/your_discord_code
 WhatsApp=https://wa.me/201xxxxxxxxx
