@@ -4,3 +4,6 @@ Discord=https://discord.gg/your_discord_code
 WhatsApp=https://wa.me/201xxxxxxxxx
 Facebook=https://facebook.com/your_page
 Telegram=https://t.me/your_channel
+ElitePvpers=https://t.me/your_channel
+TikTok=https://t.me/your_channel
+Instagram=https://t.me/your_channel
