@@ -17,6 +17,7 @@ Dragon_Dat_08_001.bin
 Dragon_Dat_08_002.bin
 Dragon_Dat_09_001.bin
 Dragon_Dat_09_002.bin
+Dragon_Dat_09_003.bin
 Dragon_Dat_10_001.bin
 Dragon_Dat_11_001.bin
 Dragon_Dat_12_001.bin
@@ -66,6 +67,7 @@ Dragon_Dat_19_030.bin
 Dragon_Dat_19_031.bin
 Dragon_Dat_19_032.bin
 Dragon_Dat_19_033.bin
+Dragon_Dat_19_034.bin
 Dragon_Dat_20_001.bin
 Dragon_Dat_20_002.bin
 Dragon_Dat_20_003.bin
@@ -111,4 +113,3 @@ Dragon_Dat_40_001.bin
 Dragon_Dat_41_001.bin
 Dragon_Dat_42_001.bin
 Dragon_Dat_43_001.bin
-Dragon_Dat_44_001.bin
