@@ -1,9 +1,5 @@
 Version=v3.0
 BaseUrl=https://github.com/dragonreliconline-creator/Dragon-Assets/releases/download/v3.0/
-Discord=https://discord.gg/your_discord_code
-WhatsApp=https://wa.me/201xxxxxxxxx
-Facebook=https://facebook.com/your_page
-Telegram=https://t.me/your_channel
-ElitePvpers=https://t.me/your_channel
-TikTok=https://t.me/your_channel
-Instagram=https://t.me/your_channel
+Discord=https://discord.gg/uCjv4gY8hk
+WhatsApp=https://wa.me/201013581684
+Facebook=https://www.facebook.com/DragonRelicOnline/
