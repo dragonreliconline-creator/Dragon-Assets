@@ -1,5 +1,5 @@
-Version=v3.0
-BaseUrl=https://github.com/dragonreliconline-creator/Dragon-Assets/releases/download/v3.0/
+Version=v4.0
+BaseUrl=https://github.com/dragonreliconline-creator/Dragon-Assets/releases/download/v4.0/
 Discord=https://discord.gg/uCjv4gY8hk
 WhatsApp=https://wa.me/201013581684
 Facebook=https://www.facebook.com/DragonRelicOnline/
