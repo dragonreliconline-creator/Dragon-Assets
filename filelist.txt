@@ -128,4 +128,3 @@ Dragon_Dat_42_001.bin
 Dragon_Dat_43_001.bin
 Dragon_Dat_44_001.bin
 Dragon_Dat_45_001.bin
-Dragon_Dat_46_001.bin
