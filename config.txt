@@ -1,7 +1,7 @@
 Version=v6.0
 BaseUrl=https://github.com/dragonreliconline-creator/Dragon-Assets/releases/download/v6.0/
-Support=https://discord.gg/uCjv4gY8hk
-Website=https://discord.gg/uCjv4gY8hk
-Discord=https://discord.gg/uCjv4gY8hk
+Support=https://www.facebook.com/messages/t/103385369452566
+Website=https://dragon-relic-lore.online
+Discord=https://discord.gg/6VQErEaPwU
 WhatsApp=https://wa.me/201013581684
-Facebook=https://www.facebook.com/DragonRelicOnline/
+Facebook=https://www.facebook.com/DragonRelicOnline
